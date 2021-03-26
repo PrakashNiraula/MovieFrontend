@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Recommendations</string>
+    <string name="err_msg_email">pinkth3floyd@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailId">pinkth3floyd@gmail.com</string>
+    <string name="contactNo">+9779813901311</string>
+    <string name="secure_payment_text"><![CDATA[Safe and Secure Payments. Easy returns <br />100% Authentic products]]></string>
+
+</resources>
